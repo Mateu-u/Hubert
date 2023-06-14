@@ -34,5 +34,5 @@ Yes.addEventListener('click', ()=> {
 const HiButton = document.getElementById('autor');
 
 HiButton.addEventListener('click',()=> {
-  open('/images/Izak911.jpg');
+  open('images/Izak911.jpg');
 })
