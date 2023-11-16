@@ -36,3 +36,11 @@ const HiButton = document.getElementById('autor');
 HiButton.addEventListener('click',()=> {
   open('images/Izak911.jpg');
 })
+
+//skibidi
+const SikbidiBtn = document.getElementById("skibidi");
+SikbidiBtn.addEventListener('click', function() {
+  window.open("https://www.youtube.com/shorts/Fe9CpQnsPYg")
+})
+
+  
